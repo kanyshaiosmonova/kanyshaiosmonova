@@ -1,0 +1,20 @@
+name: Todoist Readme
+uses: abhisheknaiidu/todoist-readme@v0.0.9
+
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every minute
+    - cron: "* * * * *"
+
+jobs:
+  update-readme:
+    name: Update todoist stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: kanyshaiosmonova/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{94a85fc4e6151de55d3e8ea8a2efe306ff621363}}
+          PREMIUM: "true"
