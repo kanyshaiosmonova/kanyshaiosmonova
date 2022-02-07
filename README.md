@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Frontend Frameworks
 - 📫 How to reach me: osmonova.kanyshai@gmail.com
 
-# Todoist Stats
+
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
