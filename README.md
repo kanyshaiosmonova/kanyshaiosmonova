@@ -5,5 +5,8 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Frontend Frameworks
 - 📫 How to reach me: osmonova.kanyshai@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love Indian films very much
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
