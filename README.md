@@ -1,5 +1,6 @@
+![](https://komarev.com/ghpvc/?username=kanyshaiosmonova)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Kanyshai Osmonova
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding&color=green&label=PROFILE+VIEWS
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Frontend Frameworks
