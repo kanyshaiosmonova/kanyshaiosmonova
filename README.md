@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kanyshaiosmonova&color=green&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=kanyshaiosmonova&color=blue&label=PROFILE+VIEWS)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Kanyshai Osmonova
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Frontend Development
@@ -32,4 +32,4 @@
 <code><img height="20" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 <code><img height="20" alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></code>
 
-![Kanyshai's Github stats](https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova)
+![Kanyshai's Github stats](https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&color=black)
