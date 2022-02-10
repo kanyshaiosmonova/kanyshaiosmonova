@@ -24,19 +24,18 @@
 <br />
 
 ### languages and tools: 
-<br />
 <code><img height="20" alt="html5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
 <code><img height="20" alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg?style=flat-square&logo=github-actions&logoColor=white"></code>
 <code><img height="20" alt="Sass" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg?style=flat-square&logo=github-actions&logoColor=white"></code>
 <code><img height="20" alt="git" src="https://cdn.worldvectorlogo.com/logos/git.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
 <code><img height="20" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
-<br />
 
 <!--
 ![Kanyshai's Github stats](https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&show_icons=true&theme=tokyonight)
 ![Top Langs] (https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kanyshaiosmonova&hide=php&theme=tokyonight)
 -->
+<br />
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&theme=tokyonight"> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&count_private=true&show_icons=true&theme=tokyonight" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyshaiosmonova&hide=php&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyshaiosmonova&hide=php&theme=tokyonight" /></a>
