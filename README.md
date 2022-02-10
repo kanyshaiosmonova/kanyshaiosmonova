@@ -3,12 +3,18 @@
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Frontend Frameworks
-- 📫 How to reach me: osmonova.kanyshai@gmail.com  <br /> 
+- 📫 How to reach me: <br /> 
+<a href="mailto:osmonova.kanyshai@gmail.com">
+  <img align="left" alt="Kanyshai Osmonova" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
+</a>
 <a href="https://twitter.com/kaniosmonova">
-  <img align="left" alt="Kanyshai Osmonova | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kanyshai Osmonova" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kanyshai-osmonova-0a91001b8/">
-  <img align="left" alt="Kanyshai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kanyshai's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/kanyshai_osmonova20/">
+  <img align="left" alt="Kanyshai's Facebook" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br />
 
