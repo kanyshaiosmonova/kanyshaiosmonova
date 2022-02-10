@@ -22,7 +22,4 @@
 <code><img height="20" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 <code><img height="20" alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></code>
 
-
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+![Kanyshai's Github stats](https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova)
