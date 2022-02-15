@@ -9,9 +9,6 @@
 <a href="mailto:osmonova.kanyshai@gmail.com">
   <img align="left" alt="Kanyshai Osmonova" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
-<a href="https://www.instagram.com/kanyshaiosmonova_/">
-  <img align="left" alt="Kanyshai Osmonova" | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
-</a>
 <a href="https://twitter.com/kaniosmonova">
   <img align="left" alt="Kanyshai Osmonova" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
