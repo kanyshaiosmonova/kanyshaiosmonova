@@ -19,16 +19,14 @@
   <img align="left" alt="Kanyshai's Facebook" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br />
-
-### languages and tools: 
-<code><img height="20" alt="html5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
-<code><img height="20" alt="css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg?style=flat-square&logo=github-actions&logoColor=white"></code>
-<code><img height="20" alt="Sass" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg?style=flat-square&logo=github-actions&logoColor=white"></code>
-<code><img height="20" alt="git" src="https://cdn.worldvectorlogo.com/logos/git.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
-<code><img height="20" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
+<h3 align="left">Languages and Tools:</h3>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <br />
 <br />
+  
 ![kanyshaiosmonova's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanyshaiosmonova&theme=xcode)
 <br />
 <div>
