@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kanyshaiosmonova&color=blue&label=PROFILE+VIEWS)
-[![Github](https://img.shields.io/github/followers/kanyshaiosmonova?label=Follow&style=social)](https://github.com/kanyshaiosmonova)
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Kanyshai Osmonova
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Frontend Development
