@@ -32,10 +32,3 @@
 <img src="images/yarn.svg" alt="yarn" width="40" height="40">
 </div>
 
-
-<br />
-<br />
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&theme=tokyonight"> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kanyshaiosmonova&count_private=true&show_icons=true&theme=tokyonight" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyshaiosmonova&hide=php&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyshaiosmonova&hide=php&theme=tokyonight" /></a>
-</div>
