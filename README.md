@@ -1,9 +1,8 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Kanyshai Osmonova
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Frontend Development(React)
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Frontend Frameworks
+- 🌱 I’m currently learning Flutter
+- 🤔 I’m looking for help with Flutter
 - 📫 How to reach me: <br /> 
 <div>
 <a href="mailto:osmonova.kanyshai@gmail.com">
@@ -26,8 +25,6 @@
 <img src="images/sass.svg" alt="sass" width="40" height="40">
 <img src="images/js.svg" alt="js" width="40" height="40">
 <img src="images/git.svg" alt="git" width="40" height="40">
-<img src="images/node.svg" alt="node" width="40" height="40">
-<img src="images/react.svg" alt="react" width="40" height="40">
 <img src="images/npm.svg" alt="npm" width="40" height="40">
 <img src="images/yarn.svg" alt="yarn" width="40" height="40">
 </div>
