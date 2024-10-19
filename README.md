@@ -1,8 +1,8 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Kanyshai Osmonova
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with Flutter
+- 👀 I’m interested in IT, AI
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
 - 📫 How to reach me: <br /> 
 <div>
 <a href="mailto:osmonova.kanyshai@gmail.com">
